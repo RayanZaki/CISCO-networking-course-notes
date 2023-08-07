@@ -39,5 +39,8 @@ Skills for All frequently asked questions can be found at https://skillsforall.c
 ## Table Of contents:
 - [Module 1: Communication in a connected World](./Module%201-%20Communications%20in%20a%20connected%20world/1.0_intro.md)
 - [Module 2: Network Components, Types and Connection](./Module%202-%20Networking%20Components%20and%20Connections/2.0_intro.md)
+- [Module 3:  Wireless and Mobile Networks](./Module%203-%20Wireless%20%26%20Mobile%20Networks%20/3.0_intro.md)
+- [Module 4:  Build a Home Network](./Module%204-%20Build%20a%20Home%20Network/4.0_intro.md)
+- [Module 5:  Communication Principles](./Module%205-%20Communication%20Principles/5.0_intro.md)
 
 
